@@ -95,4 +95,4 @@ Here we need to enter the word to be searched.
 Lets evaluate this line inside out. 'word' is our input search which is passed to word_meaning() function which 
 returns the meaning in text. This text is passed as a parameter to the speak function which pronounces the text given to it.
 
-For the github repo of the project click here: <a herf="https://github.com/Py-geeks/Talking-Dictionary">Talking Dictionary</a> 
+For the github repo of the project click here: <a href="https://github.com/Py-geeks/Talking-Dictionary">Talking Dictionary</a> 
